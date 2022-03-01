@@ -63,4 +63,4 @@ In choosing vagrant we considered the follows aspect:
 
 2. Although we could directly deploy our application from travis.yml, vagrant gives us the ability to clone and spin up multiple instances of the same virtual machine and allows us to scale services and applications rapidly, efficiently and very cost-effectively.
 
-3. is a very popular tool for virtual machines based environment management, open source and fairly easy to learn with rich documentation and integration with other tools.
+3. It is a very popular tool for virtual machines based environment management, open source, fairly easy to learn with rich documentation and integration with other tools.
