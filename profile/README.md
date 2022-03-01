@@ -53,5 +53,10 @@ II. Technology
 ***
 
 **Why did we choose Vagrant?** --V&L
-```...```
-
+We choose to deploy our application in a remote server provisioned by Azure using Vagrant.
+As we create a remote server we understand that Vagrant is a powerful tool for virtual machines based environment management.
+With this approach we aim to have a consistent environment for deploying the docker containers in our cloud infrastructure.
+In choosing vagrant we considered the follows aspect:
+1- combine the power of virtualization with the reach and scope of Microsoft Azure, the system benefits of both are amplified giving us speed, agility, performance, global presence, security and disaster recovery at scale.
+2-Although we could directly deploy our application from travis.yml, vagrant gives us the ability to clone and spin up multiple instances of the same virtual machine and allows us to scale services and applications rapidly, efficiently and very cost-effectively.
+3-is a very popular tool for virtual machines based environment management, open source and fairly easy to learn with rich documentation and integration with other tools.
