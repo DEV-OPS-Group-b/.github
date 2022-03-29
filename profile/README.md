@@ -25,6 +25,10 @@ I. General Qs:
 **Who is responsible for integrating/reviewing contributions?**
 - Diyana
 
+**Links:**
+- Backend - http://minitwitb.germanywestcentral.cloudapp.azure.com:8080/devops/tweet/get-all-tweets/0/0
+- Frontend - http://minitwitb.germanywestcentral.cloudapp.azure.com:3000/public
+
 **************************************************************************
 
 II. Technology 
